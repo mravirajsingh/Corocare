@@ -28,7 +28,7 @@ https://github.com/mravirajsingh/corocare
    
    8. Browse the file in directory (corocare.sql)
 
-   9. open any browser and type http://localhost/corocare-master
+   9. open any browser and type http://localhost/corocare
    
-   10. Well done ! here be go 
+   10. Well done ! take a cup of tea :)
 
