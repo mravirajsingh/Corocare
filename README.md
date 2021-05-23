@@ -3,7 +3,7 @@
 
 # Live :
 
-[corocare](https://corocare.epizy.com/)
+[Corocare website](https://corocare.epizy.com/)
 
 
 # Download project from github :
