@@ -31,4 +31,5 @@ https://github.com/mravirajsingh/corocare
    9. open any browser and type http://localhost/corocare or according to your port number eg. 8080
    
    10. Well done ! take a cup of tea :)
-
+   
+[I'm an inline-style link](https://www.google.com)
