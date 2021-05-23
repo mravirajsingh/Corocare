@@ -2,7 +2,7 @@
 
 # Description : 
 
-This is a basic and simple web development project based on the current scenario (Covid-19) using HTML, CSS, JavaScript, PHP, Mysql. Which help the user and guide in booking lab tests and booking a bed in the hospital in such way user can type their city name list of labs and hospitals show to them. There is also a facility that labs and hospitals are able to registred themself on the website.
+This is a basic and simple web development project based on the current scenario (Covid-19) using HTML, CSS, JavaScript, PHP, Mysql. Which help the user and guide them in booking lab tests and booking a bed in the hospital in such way user can type their city name list of labs and hospitals show to them. There is also a facility that labs and hospitals are able to registred themself on the website.
 
 
 # Website Live :
