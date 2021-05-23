@@ -6,7 +6,7 @@
 
 # Download project from github :
 
-https://github.com/mravirajsingh/corocare
+[Click here to Download](https://github.com/mravirajsingh/corocare)
 
 
 
@@ -32,4 +32,3 @@ https://github.com/mravirajsingh/corocare
    
    10. Well done ! take a cup of tea :)
    
-[I'm an inline-style link](https://www.google.com)
