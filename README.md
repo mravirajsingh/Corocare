@@ -12,7 +12,7 @@ This is a basic and simple web development project based on the current scenario
 
 # Download project from github :
 
-[Click here to Download](https://github.com/mravirajsingh/corocare)
+[Click here to Download](https://github.com/mravirajsingh/corocare/archive/refs/heads/main.zip)
 
 
 
