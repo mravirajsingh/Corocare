@@ -5,7 +5,7 @@
 This is a basic and simple web development project based on the current scenario (Covid-19) using HTML, CSS, JavaScript, PHP which help the user and guide in booking lab tests and booking a bed in the hospital.
 
 
-# Live :
+# Website Live :
 
 [Corocare website](https://corocare.epizy.com/)
 
