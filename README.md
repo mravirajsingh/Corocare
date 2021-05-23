@@ -22,19 +22,19 @@ This is a basic and simple web development project based on the current scenario
 
    2. Open XAMPP Control panal and start [apache] and [mysql] .
 
-   3. extract files in C:\xampp\htdocs.
+   3. Extract files in C:\xampp\htdocs.
 
-   4. open link localhost/phpmyadmin
+   4. Open link localhost/phpmyadmin
 
-   5. click on new at side navbar
+   5. Click on new at side navbar
    
-   6.  give a database name as (corocare) hit on create button.
+   6. Give a database name as (corocare) hit on create button.
 
    7. After creating database name click on import
    
    8. Browse the file in directory (corocare.sql)
 
-   9. open any browser and type http://localhost/corocare or according to your port number eg. 8080
+   9. Open any browser and type http://localhost/corocare or according to your port number eg. 8080
    
    10. Well done ! take a cup of tea :)
    
