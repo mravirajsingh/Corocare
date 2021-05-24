@@ -18,7 +18,7 @@ This is a basic and simple web development project based on the current scenario
 
 # Installation
 
-   1. Install [XAMPP](https://www.apachefriends.org/download.html) or [WAMPP](https://www.wampserver.com/en/).
+   1. Download and Install [XAMPP](https://www.apachefriends.org/download.html) or [WAMPP](https://www.wampserver.com/en/).
 
    2. Open XAMPP Control Panel and start [apache] and [mysql] .
 
